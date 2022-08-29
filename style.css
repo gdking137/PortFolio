@@ -119,6 +119,10 @@ p {
   display: flex;
 }
 
+.navbar__menu.open {
+  display: block;
+}
+
 .navbar__menu__item {
   padding: 8px 12px;
   margin: 0 4px;
