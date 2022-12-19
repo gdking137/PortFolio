@@ -239,6 +239,7 @@ p {
 }
 
 .job {
+  align-items: center;
   margin-bottom: 20px;
 }
 
@@ -604,11 +605,6 @@ p {
     margin-bottom: 0px;
   }
 
-  .about__jobs {
-    flex-direction: column;
-    margin-top: 30px;
-    margin-bottom: 0px;
-  }
   .major {
     margin-bottom: 30px;
   }
